@@ -1,8 +1,8 @@
-*/  
+/*  
   No libraries needed for this
   I want to create a code for controlling an RGB LED with arduino to make custom color lights. This will help later with RGB LED
   strips and controlling other PWM items.
-/*
+*/
 
 // initialize pins 9-11 all pwm pins to adust the "frequency"
 int R_pin= 9;
